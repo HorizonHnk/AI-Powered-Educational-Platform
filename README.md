@@ -6,6 +6,10 @@ An intelligent educational platform that leverages AI to create a personalized l
 
 > **Note:** This entire project was developed by a single developer in just 2 weeks, showcasing rapid development capabilities using modern technologies.
 
+### Important Links
+- **GitHub Repository:** [https://github.com/HorizonHnk/AI-Powered-Educational-Platform.git](https://github.com/HorizonHnk/AI-Powered-Educational-Platform.git)
+- **YouTube Channel:** [https://www.youtube.com/playlist?list=PLrZbkNpNVSwz80b0N4woeG4tZQvNjLsPy](https://www.youtube.com/playlist?list=PLrZbkNpNVSwz80b0N4woeG4tZQvNjLsPy)
+
 ![Platform Interface](https://placekitten.com/800/400)
 
 ## 🔍 Abstract
