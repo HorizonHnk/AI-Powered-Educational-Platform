@@ -202,7 +202,7 @@ This AI-Powered Educational Platform represents a significant advancement in edu
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-educational-platform.git
+git clone https://github.com/horizonhnk/ai-educational-platform.git
 
 # Install dependencies
 cd ai-educational-platform
